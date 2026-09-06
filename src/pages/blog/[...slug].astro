@@ -1,7 +1,6 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
-
 export async function getStaticPaths() {
 	const posts = await getCollection('blog');
 	return posts.map((post) => ({
@@ -16,5 +15,5 @@ const { Content } = await render(post);
 ---
 
 <BlogPost {...post.data}>
-	<Content />
+    <Content />
 </BlogPost>
