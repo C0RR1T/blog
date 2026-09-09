@@ -8,8 +8,11 @@ import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
+    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <script type='module' is:inline 
+    src='https://static.cloudflareinsights.com/beacon.min.js' 
+    data-cf-beacon='{"token": "435fd19fd34e446f875cefa9ca9a386e"}'></script>
+  </head>
   <body class="font-mono bg-gray-900 text-white">
 		<Header />
       <slot />
