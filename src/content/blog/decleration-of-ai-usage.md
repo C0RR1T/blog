@@ -12,18 +12,23 @@ it's also fair to say that - while AI is a great technology - it couldn't have c
 I sympathize with the people which speak out against the environmental impact of AI data centers.
 
 Although I have to admit, I also use AI for tasks that it wasn't really designed for or which I am just lazy to do myself.
-I try to be mindful of this, but I'm probably in the worst possible group - people doing wrong and doing it anyway.
+I try to be mindful of this, but I'm probably in the worst possible group - people doing wrong knowingly and doing it anyway.
 
-I hear the excuse a lot at work and I may have incorporated it in my mindset: I'm falling behind if I don't use it.
-While this is somewhat true, it's the same thing as saying "If I don't fly someone else will just fly instead of me".
+"I'm falling behind if I don't use it"; I hear the excuse a lot at work, which is understandable because a lot of people tell you it's like this.
+"10 tips to help you be AI-accelerated", "Use this tool or your falling behind" and stuff like that are probably videos that exist on Youtube.
+Don't get me wrong, Youtube is a great resource, but I feel burnt out by AI. I myself have found thinking I'm falling behind.
+While it's somewhat true that you can't be as productive by yourself as people using AI,
+it's the same thing as saying "If I don't fly someone else will just fly instead of me".
+If nobody thought like this, we would be in a much better place than we are now.
 The job market is the most competitive as it's ever been, which gives this excuse more truth than it may deserve.
 Most people want to secure their job, and AI is an easy way to do that.
+But it's possibly destroying our planet - and more importantly - it's definitely affecting us negatively.
 
 What's probably most depressing is that most people have lost the love of programming due to AI. It's just not as satisfying.
 This might sound absurd, but AI is kinda like masturbating: it gives you a short dopamine boost, but over the long term you get screwed by it.
 And I'm probably not the first to say that (I don't know who said it, so can't give an accurate citation).
 
-Which brings me to my main point: Why am I writing a declaration of AI usage?
+Which brings me to my main point: Why am I writing a declaration of AI usage? <br>
 I want to escape the feeling of being "forced" to use AI.
 I can write this blog without having any concerns about performance or how fast I have to do it.
 I can take my time and enjoy the process of manual CSS designing. I love the process.
@@ -38,7 +43,7 @@ My goal for the blog is:
 
 ---
 
-I think the internet has been kinda ruined by corporations and their platforms.
+I think the internet (and life - sadly) has been kinda ruined by corporations and their platforms.
 I want to counteract this by creating my own little place here on the internet and share stuff.
 
 If you find this and you like it, Thank you for taking the time. <br>
