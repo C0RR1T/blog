@@ -15,7 +15,7 @@ Although I have to admit, I also use AI for tasks that it wasn't really designed
 I try to be mindful of this, but I'm probably in the worst possible group - people doing wrong knowingly and doing it anyway.
 
 "I'm falling behind if I don't use it"; I hear the excuse a lot at work, which is understandable because a lot of people tell you it's like this.
-"10 tips to help you be AI-accelerated", "Use this tool or your falling behind" and stuff like that are probably videos that exist on Youtube.
+"10 tips to help you be AI-accelerated", "Use this tool or you're falling behind" and stuff like that are probably videos that exist on Youtube.
 Don't get me wrong, Youtube is a great resource, but I feel burnt out by AI. I myself have found thinking I'm falling behind.
 While it's somewhat true that you can't be as productive by yourself as people using AI,
 it's the same thing as saying "If I don't fly someone else will just fly instead of me".
