@@ -1,12 +1,12 @@
 ---
-import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+import Logo from './Logo.astro'
 ---
 
 <header class="mb-5">
   <nav class="flex justify-center items-center p-4" >
-		<h2 class="text-l grow basis-0 font-bold"><a href="/">{SITE_TITLE}</a></h2>
-		<div class="grow">
+    <a href="/" class="grow"><Logo /></a>
+		<div class="xl:grow ml-auto xl:ml-0">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/blog">Blog</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
