@@ -12,7 +12,7 @@ it's also fair to say that - while AI is a great technology - it couldn't have c
 I sympathize with the people which speak out against the environmental impact of AI data centers.
 
 Although I have to admit, I also use AI for tasks that it wasn't really designed for or which I am just lazy to do myself.
-I try to be mindful of this, but I'm probably in the worst possible group - people doing wrong knowingly and doing it anyway.
+I try to be mindful of this, but I'm probably in the worst possible group - people who knowingly do wrong and do it anyway.
 
 "I'm falling behind if I don't use it"; I hear the excuse a lot at work, which is understandable because a lot of people tell you it's like this.
 "10 tips to help you be AI-accelerated", "Use this tool or you're falling behind" and stuff like that are probably videos that exist on Youtube.
